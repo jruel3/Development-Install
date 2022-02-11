@@ -1,4 +1,4 @@
-#Code Development Install Automation Script for MacOS#
+# Code Development Install Automation Script for MacOS
 
 This script installs the following packages:
 ```
