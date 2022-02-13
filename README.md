@@ -7,6 +7,7 @@
 
 `zsh ./install.sh`
 
+## About
 
 This script installs the following packages:
 
