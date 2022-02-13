@@ -1,8 +1,12 @@
 #Code Development Install Automation Script for MacOS
 
+##Install 
+`git clone --depth=1 https/github.com/jruel3/development-install`
+`cd development-install`
+`zsh ./install.sh`
+
 This script installs the following packages:
-```
- - XCode Command Line Tools
+
  - HomeBrew
  - Github CLI
  - JDK
@@ -18,4 +22,4 @@ This script installs the following packages:
  - Libre Office
  - Visual Studio Code
  - Arduino IDE
-```
+

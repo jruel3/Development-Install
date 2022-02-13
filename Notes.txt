@@ -1,0 +1,7 @@
+Check JDK versioning
+
+(Git and XCode _have_ to be installed before the script runs)
+
+Check Unity Version
+
+Pipe outputs to /dev/null?
