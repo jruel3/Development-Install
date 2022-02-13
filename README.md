@@ -1,9 +1,12 @@
 # Code Development Install Automation Script for MacOS
 
-##Install 
+## Install 
 `git clone --depth=1 https/github.com/jruel3/development-install`
+
 `cd development-install`
+
 `zsh ./install.sh`
+
 
 This script installs the following packages:
 
