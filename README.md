@@ -1,4 +1,4 @@
-#Code Development Install Automation Script for MacOS
+# Code Development Install Automation Script for MacOS
 
 ##Install 
 `git clone --depth=1 https/github.com/jruel3/development-install`
